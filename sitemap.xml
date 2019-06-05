@@ -2,65 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com//404.html</loc>
+    <loc>http://www.browsersytle.cn/2019/06/05/hello-world.html</loc>
+    
+    <lastmod>2019-06-05T08:31:07.198Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.browsersytle.cn/2019/05/20/browser.html</loc>
+    
+    <lastmod>2019-06-05T08:30:03.274Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.browsersytle.cn/2019/06/05/fortest.html</loc>
+    
+    <lastmod>2019-06-05T08:14:52.353Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.browsersytle.cn/tags/index.html</loc>
+    
+    <lastmod>2019-06-05T07:25:15.405Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.browsersytle.cn/about/index.html</loc>
+    
+    <lastmod>2019-06-05T07:19:14.484Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.browsersytle.cn//404.html</loc>
+    
+    <lastmod>2019-06-05T07:14:44.119Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.browsersytle.cn/categories/index.html</loc>
+    
+    <lastmod>2019-06-05T07:14:27.727Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.browsersytle.cn/links/index.html</loc>
+    
+    <lastmod>2019-06-05T07:14:10.824Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.browsersytle.cn/books/index.html</loc>
     
     <lastmod>2019-06-04T06:55:20.407Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://www.browsersytle.cn/repository/index.html</loc>
     
     <lastmod>2019-06-04T06:55:20.407Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/books/index.html</loc>
-    
-    <lastmod>2019-06-04T06:55:20.407Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
-    
-    <lastmod>2019-06-04T06:55:20.407Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/links/index.html</loc>
-    
-    <lastmod>2019-06-04T06:55:20.407Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/repository/index.html</loc>
-    
-    <lastmod>2019-06-04T06:55:20.407Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2019-06-04T06:55:20.407Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/05/20/undefined/</loc>
-    
-    <lastmod>2019-05-20T14:02:09.741Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/05/20/undefined/</loc>
-    
-    <lastmod>2019-05-20T13:42:28.906Z</lastmod>
     
   </url>
   

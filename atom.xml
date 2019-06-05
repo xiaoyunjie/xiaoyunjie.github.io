@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>猪蹄胖的窝</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-05-20T14:02:09.741Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://www.browsersytle.cn/"/>
+  <updated>2019-06-05T08:31:07.198Z</updated>
+  <id>http://www.browsersytle.cn/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Browser</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>browser</title>
-    <link href="http://yoursite.com/2019/05/20/undefined/"/>
-    <id>http://yoursite.com/2019/05/20/undefined/</id>
-    <published>2019-05-20T13:58:47.000Z</published>
-    <updated>2019-05-20T14:02:09.741Z</updated>
+    <title>Hello World</title>
+    <link href="http://www.browsersytle.cn/2019/06/05/hello-world.html"/>
+    <id>http://www.browsersytle.cn/2019/06/05/hello-world.html</id>
+    <published>2019-06-05T08:31:07.201Z</published>
+    <updated>2019-06-05T08:31:07.198Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;flask&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flask&quot;&gt;&lt;/a&gt; FLASK&lt;/h1&gt;
-&lt;h3 id=&quot;安装flask&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#安装flask&quot;&gt;&lt;/a&gt;
+        &lt;!-- build time:Wed Jun 05 2019 17:31:00 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noo
       
     
     </summary>
@@ -37,21 +36,46 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/05/20/undefined/"/>
-    <id>http://yoursite.com/2019/05/20/undefined/</id>
-    <published>2019-05-20T13:42:28.906Z</published>
-    <updated>2019-05-20T13:42:28.906Z</updated>
+    <title>fortest</title>
+    <link href="http://www.browsersytle.cn/2019/06/05/fortest.html"/>
+    <id>http://www.browsersytle.cn/2019/06/05/fortest.html</id>
+    <published>2019-06-05T06:50:05.000Z</published>
+    <updated>2019-06-05T08:14:52.353Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;!-- build time:Wed Jun 05 2019 17:31:00 GMT+0800 (China Standard Time) --&gt;&lt;h1 id=&quot;欢迎使用马克飞象&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#欢迎使用马克飞象&quot;&gt;&lt;
       
     
     </summary>
     
+    
+      <category term="python" scheme="http://www.browsersytle.cn/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>browser</title>
+    <link href="http://www.browsersytle.cn/2019/05/20/browser.html"/>
+    <id>http://www.browsersytle.cn/2019/05/20/browser.html</id>
+    <published>2019-05-20T13:58:47.000Z</published>
+    <updated>2019-06-05T08:30:03.274Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 05 2019 17:31:00 GMT+0800 (China Standard Time) --&gt;&lt;h1 id=&quot;flask&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flask&quot;&gt;&lt;/a&gt; FL
+      
+    
+    </summary>
+    
+      <category term="python" scheme="http://www.browsersytle.cn/categories/python/"/>
+    
+    
+      <category term="flask" scheme="http://www.browsersytle.cn/tags/flask/"/>
     
   </entry>
   

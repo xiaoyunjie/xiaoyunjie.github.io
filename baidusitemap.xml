@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite.com/2019/05/20/undefined/</loc>
-    <lastmod>2019-05-20</lastmod>
+    <loc>http://www.browsersytle.cn/2019/06/05/hello-world.html</loc>
+    <lastmod>2019-06-05</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/05/20/undefined/</loc>
-    <lastmod>2019-05-20</lastmod>
+    <loc>http://www.browsersytle.cn/2019/05/20/browser.html</loc>
+    <lastmod>2019-06-05</lastmod>
+  </url>  <url>
+    <loc>http://www.browsersytle.cn/2019/06/05/fortest.html</loc>
+    <lastmod>2019-06-05</lastmod>
   </url>
 </urlset>

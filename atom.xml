@@ -3,11 +3,11 @@
   <title>猪蹄胖的窝</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://www.browsersytle.cn/"/>
+  <link href="https://www.browsersytle.cn/"/>
   <updated>2019-06-05T08:30:03.274Z</updated>
-  <id>http://www.browsersytle.cn/</id>
+  <id>https://www.browsersytle.cn/</id>
   
   <author>
     <name>Browser</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>browser</title>
-    <link href="http://www.browsersytle.cn/2019/05/20/browser.html"/>
-    <id>http://www.browsersytle.cn/2019/05/20/browser.html</id>
+    <link href="https://www.browsersytle.cn/2019/05/20/browser.html"/>
+    <id>https://www.browsersytle.cn/2019/05/20/browser.html</id>
     <published>2019-05-20T13:58:47.000Z</published>
     <updated>2019-06-05T08:30:03.274Z</updated>
     
@@ -27,15 +27,15 @@
     
       
       
-        &lt;!-- build time:Mon Jun 10 2019 23:07:20 GMT+0800 (China Standard Time) --&gt;&lt;h1 id=&quot;flask&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flask&quot;&gt;&lt;/a&gt; FL
+        &lt;!-- build time:Tue Jun 11 2019 00:41:39 GMT+0800 (China Standard Time) --&gt;&lt;h1 id=&quot;flask&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flask&quot;&gt;&lt;/a&gt; FL
       
     
     </summary>
     
-      <category term="python" scheme="http://www.browsersytle.cn/categories/python/"/>
+      <category term="python" scheme="https://www.browsersytle.cn/categories/python/"/>
     
     
-      <category term="flask" scheme="http://www.browsersytle.cn/tags/flask/"/>
+      <category term="flask" scheme="https://www.browsersytle.cn/tags/flask/"/>
     
   </entry>
   

@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://www.browsersytle.cn/"/>
-  <updated>2019-06-05T08:30:03.274Z</updated>
+  <updated>2019-06-19T14:59:52.294Z</updated>
   <id>https://www.browsersytle.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nginx限制并发连接数和带宽</title>
+    <link href="https://www.browsersytle.cn/2019/06/19/Nginx%E9%99%90%E5%88%B6%E5%B9%B6%E5%8F%91%E8%BF%9E%E6%8E%A5%E6%95%B0%E5%92%8C%E5%B8%A6%E5%AE%BD.html"/>
+    <id>https://www.browsersytle.cn/2019/06/19/Nginx限制并发连接数和带宽.html</id>
+    <published>2019-06-19T14:41:16.000Z</published>
+    <updated>2019-06-19T14:59:52.294Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 19 2019 23:00:02 GMT+0800 (China Standard Time) --&gt;&lt;h3 id=&quot;tcp连接&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#tcp连接&quot;&gt;&lt;/a&gt; TC
+      
+    
+    </summary>
+    
+      <category term="Nginx" scheme="https://www.browsersytle.cn/categories/Nginx/"/>
+    
+    
+      <category term="limit" scheme="https://www.browsersytle.cn/tags/limit/"/>
+    
+  </entry>
   
   <entry>
     <title>browser</title>
@@ -27,7 +50,7 @@
     
       
       
-        &lt;!-- build time:Tue Jun 11 2019 00:41:39 GMT+0800 (China Standard Time) --&gt;&lt;h1 id=&quot;flask&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flask&quot;&gt;&lt;/a&gt; FL
+        &lt;!-- build time:Wed Jun 19 2019 23:00:02 GMT+0800 (China Standard Time) --&gt;&lt;h1 id=&quot;flask&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flask&quot;&gt;&lt;/a&gt; FL
       
     
     </summary>

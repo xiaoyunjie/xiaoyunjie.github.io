@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://www.browsersytle.cn/"/>
-  <updated>2019-07-16T14:57:08.242Z</updated>
+  <updated>2019-07-16T14:58:38.590Z</updated>
   <id>https://www.browsersytle.cn/</id>
   
   <author>
@@ -17,17 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>browser</title>
+    <title>Tcpdump</title>
     <link href="https://www.browsersytle.cn/2019/07/16/Tcpdump.html"/>
     <id>https://www.browsersytle.cn/2019/07/16/Tcpdump.html</id>
     <published>2019-07-16T14:55:19.000Z</published>
-    <updated>2019-07-16T14:57:08.242Z</updated>
+    <updated>2019-07-16T14:58:38.590Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue Jul 16 2019 22:57:18 GMT+0800 (China Standard Time) --&gt;&lt;blockquote&gt;&lt;p&gt;&lt;code&gt;tcpdump=dump the traffic on a network&lt;/code&gt;
+        &lt;!-- build time:Tue Jul 16 2019 22:58:44 GMT+0800 (China Standard Time) --&gt;&lt;blockquote&gt;&lt;p&gt;&lt;code&gt;tcpdump=dump the traffic on a network&lt;/code&gt;
       
     
     </summary>

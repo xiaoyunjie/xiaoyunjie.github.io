@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://www.browsersytle.cn/"/>
-  <updated>2019-07-16T14:49:42.063Z</updated>
+  <updated>2019-07-16T14:57:08.242Z</updated>
   <id>https://www.browsersytle.cn/</id>
   
   <author>
@@ -17,17 +17,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>理解TCP和UDP</title>
-    <link href="https://www.browsersytle.cn/2019/07/16/%E7%90%86%E8%A7%A3TCP%E5%92%8CUDP.html"/>
-    <id>https://www.browsersytle.cn/2019/07/16/理解TCP和UDP.html</id>
-    <published>2019-07-16T14:41:22.000Z</published>
-    <updated>2019-07-16T14:49:42.063Z</updated>
+    <title>browser</title>
+    <link href="https://www.browsersytle.cn/2019/07/16/Tcpdump.html"/>
+    <id>https://www.browsersytle.cn/2019/07/16/Tcpdump.html</id>
+    <published>2019-07-16T14:55:19.000Z</published>
+    <updated>2019-07-16T14:57:08.242Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue Jul 16 2019 22:49:58 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;##一、TCP端口&lt;/p&gt;&lt;p&gt;##二、TCP报文结构&lt;/p&gt;&lt;p&gt;##三、TCP连接的建立和释放&lt;br&gt;&lt;code&gt;TCP
+        &lt;!-- build time:Tue Jul 16 2019 22:57:18 GMT+0800 (China Standard Time) --&gt;&lt;blockquote&gt;&lt;p&gt;&lt;code&gt;tcpdump=dump the traffic on a network&lt;/code&gt;
+      
+    
+    </summary>
+    
+      <category term="network" scheme="https://www.browsersytle.cn/categories/network/"/>
+    
+    
+      <category term="tcpdump" scheme="https://www.browsersytle.cn/tags/tcpdump/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>理解TCP和UDP</title>
+    <link href="https://www.browsersytle.cn/2019/07/16/%E7%90%86%E8%A7%A3TCP%E5%92%8CUDP.html"/>
+    <id>https://www.browsersytle.cn/2019/07/16/理解TCP和UDP.html</id>
+    <published>2019-07-16T14:41:22.000Z</published>
+    <updated>2019-07-16T14:52:39.545Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Jul 16 2019 22:57:18 GMT+0800 (China Standard Time) --&gt;&lt;h2 id=&quot;一-tcp端口&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-tcp端口&quot;&gt;&lt;/a
       
     
     </summary>

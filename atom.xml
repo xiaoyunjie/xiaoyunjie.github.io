@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://www.browsersytle.cn/"/>
-  <updated>2019-07-16T14:42:53.706Z</updated>
+  <updated>2019-07-16T14:49:42.063Z</updated>
   <id>https://www.browsersytle.cn/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="https://www.browsersytle.cn/2019/07/16/%E7%90%86%E8%A7%A3TCP%E5%92%8CUDP.html"/>
     <id>https://www.browsersytle.cn/2019/07/16/理解TCP和UDP.html</id>
     <published>2019-07-16T14:41:22.000Z</published>
-    <updated>2019-07-16T14:42:53.706Z</updated>
+    <updated>2019-07-16T14:49:42.063Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue Jul 16 2019 22:43:01 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;&lt;img src=&quot;%E7%90%86%E8%A7%A3TCP%E5%92%8CUDP/mac-1.png&quot; alt&gt;&lt;br
+        &lt;!-- build time:Tue Jul 16 2019 22:49:58 GMT+0800 (China Standard Time) --&gt;&lt;p&gt;##一、TCP端口&lt;/p&gt;&lt;p&gt;##二、TCP报文结构&lt;/p&gt;&lt;p&gt;##三、TCP连接的建立和释放&lt;br&gt;&lt;code&gt;TCP
       
     
     </summary>

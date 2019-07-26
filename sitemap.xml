@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.browsersytle.cn/about/index.html</loc>
+    
+    <lastmod>2019-07-26T01:53:15.058Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.browsersytle.cn/2019/07/22/SQL%E5%9F%BA%E7%A1%80.html</loc>
     
     <lastmod>2019-07-22T14:33:59.297Z</lastmod>
@@ -61,13 +68,6 @@
     <loc>https://www.browsersytle.cn/tags/index.html</loc>
     
     <lastmod>2019-06-05T07:25:15.405Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.browsersytle.cn/about/index.html</loc>
-    
-    <lastmod>2019-06-05T07:19:14.484Z</lastmod>
     
   </url>
   
